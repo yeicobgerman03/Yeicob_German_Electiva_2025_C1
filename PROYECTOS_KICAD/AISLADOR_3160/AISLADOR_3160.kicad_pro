@@ -179,6 +179,7 @@
       ],
       "track_widths": [
         0.0,
+        0.127,
         0.2032,
         0.381,
         0.635
@@ -447,7 +448,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "aislador.kicad_pro",
+    "filename": "AISLADOR_3160.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -592,7 +593,7 @@
   },
   "sheets": [
     [
-      "32d407ad-b166-41d1-9942-450e792f71a2",
+      "c2b6ce33-7d54-44f7-8c77-3da08078c76c",
       "Root"
     ]
   ],
